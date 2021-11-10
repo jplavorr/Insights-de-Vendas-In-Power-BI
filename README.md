@@ -18,7 +18,7 @@ Até então, as vendas eram passadas pelos gerentes regionais na Índia, no qual
 
 ![Star Schema](Imagens/sql_database.png)
 
-Com os dados provenientes da emopresa, iremos fazer um dashboard automatizado em Power BI para suporte e decisões sobre a empresa de forma otimizada.  
+Com os dados provenientes da empresa, iremos fazer um dashboard automatizado em Power BI para suporte e decisões sobre a empresa de forma otimizada.  
 
 ### ETL Pipeline
 
